@@ -42,5 +42,9 @@
     "type-check": "tsc --noEmit --project tsconfig.app.json"
   },
   "type": "module",
+    "engines": {
+    "node": "22.x"
+  },
   "version": "0.0.0"
+  
 }
